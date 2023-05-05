@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body {
+	background: #dcdcdc url("./image/bg01.png");
+}
+h1{
+	border: double 3px green;
+	background: #f8f8ff url("./image/usagi.gif");
+	width: 1500px;
+	padding: 10px;
+	font-size: 50px;
+	text-align: center;
+}
+h2{
+	border: 1px solid black;
+	width: 400px;
+	font-style: italic;
+	color: red;
+	background: #556b2f;
+	border-left: solid 20px red;
+}
+li{
+		text-align: 20px;
+		list-style-position: none;
+}
+h2 p{
+	font-size: 30px;
+	font-color: #c71585;
+}
+
+}
+footer p{
+	background: #b0c4de;
+	text-align: right;
+	font-size: 20px;
+}

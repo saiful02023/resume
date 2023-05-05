@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body {
+	background: #ff6347 url("./image/bg01.png");
+}
+h1{
+	border: double 3px green;
+	background: pink url("./image/usagi.gif");
+	width: 1500px;
+	padding: 10px;
+	font-size: 50px;
+	text-align: center;
+}
+h2{
+	border: 1px solid red;
+	width: 400px;
+	font-style: italic;
+	color: red;
+	background: pink;
+	border-left: solid 20px red;
+}
+h2 p{
+	font-size: 30px;
+	font-color: #c71585;
+}
+h3{
+	border: 1px solid red;
+	width: 400px;
+	font-style: italic;
+	color: red;
+	background: pink;
+	border-left: solid 20px red;
+
+}
+footer p{
+	background: #a52a2a;
+	text-align: right;
+	font-size: 20px;
+}
